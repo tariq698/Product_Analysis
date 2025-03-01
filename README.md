@@ -1,4 +1,5 @@
-Data Analysis and Visualization Project
+Data Analysis and Visualization Project.
+
 Project Overview
 This project aggregates data from multiple sources to track important business metrics. The goal is to visualize and analyze key performance indicators (KPIs) such as total sales, order volume, product performance, and customer engagement. The analysis is presented in a clean and easy-to-understand format for decision-making.
 Data Structure
